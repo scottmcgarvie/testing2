@@ -1,5 +1,5 @@
 
 hist(rnorm(100))
 
-hist(rnorm(200))
+hist(rnorm(300))
 
